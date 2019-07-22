@@ -5,9 +5,7 @@ void setup ()
 
 void loop ()
 {
-
-
-
+digitalWrite(12, HIGH);
 
 }
 
